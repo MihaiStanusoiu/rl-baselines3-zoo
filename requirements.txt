@@ -10,3 +10,5 @@ plotly
 # panda-gym~=3.0.1
 wandb
 moviepy
+${PYTHON_LOCAL_DIST}/cfcppo-0.1.0-py3-none-any.whl
+
