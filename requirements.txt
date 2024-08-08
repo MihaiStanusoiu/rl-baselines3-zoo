@@ -6,6 +6,9 @@ pybullet_envs_gymnasium>=0.4.0
 cloudpickle>=2.2.1
 # optuna plots:
 plotly
+huggingface_hub
+huggingface-sb3
+optuna
 # need to upgrade to gymnasium:
 # panda-gym~=3.0.1
 wandb
